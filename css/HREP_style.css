@@ -1,0 +1,123 @@
+body{
+	background-color:#0B5345;
+	font-family:Saira, Tahoma, Helvetica, Sans-Serif;
+	font-size: 15px;
+	line-height:1.6em;
+	margin:0;
+	color:#fff;
+}
+
+.head-columns{
+	display:flex;
+}
+
+#logo img{
+	width:150px;
+	margin-left:5rem;
+}
+
+.clr_flt{
+	float:none;
+}
+
+.container{
+	width:70%;
+	margin:auto;
+	overflow:hidden;
+}
+
+#main-header{
+	background-color:#229954;
+	color:#F7F9F9;
+	font-family:Saira, Sans-Serif;
+	padding-top:20px;
+	padding-bottom:5px;
+	border-bottom:2px dashed #283747;
+}
+
+#navbar{
+	font-family:"Saira", Sans-Serif;
+	background-color:#196F3D
+}
+
+#navbar li{
+	display:inline;
+}
+
+#navbar a{
+	color:#fff;
+	text-decoration:none;
+	font-size:17px;
+	padding:5px 15px;
+	border:2px solid #CCD1D1;
+	margin:2px 2px;
+}
+
+/*
+#home-link{
+	background-color:#edf2ef;
+	color:#0c0d0d;
+}
+*/
+
+a:hover{
+	background-color:#212F3C;
+}
+
+a:active{
+	background-color:#212F3C;
+	color:#2E86C1;
+
+}
+
+#home{
+	margin-top:20px;
+	color:#fff;
+	padding:20px;
+	margin-bottom:45%;
+	line-height:2em;
+}
+
+#home #info{
+	box-sizing:border-box;
+	width:80%; 
+}
+
+#home-footer{
+	position:fixed;
+	color:#000;
+	width:100%;
+	background-color:#FFED87;
+	bottom:0px;
+	left:0px;
+	text-align:center;
+	font-family:"Saira", Sans-Serif;
+}
+
+#home-picture img{
+	max-width: 80%;
+	min-width: 50%;
+	border: 5px solid #767478;
+}
+
+.columns{
+	display: flex;
+}
+
+.curri-head{
+	font-size:2rem;
+	text-align:center;
+	text-decoration:underline;
+	font-family:Saira, Tahoma, Times;
+}
+
+#curriculum-list li{
+	font-size:1.2rem;
+	font-family:Saira, Tahoma, Times; 
+}
+
+
+
+
+
+
